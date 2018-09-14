@@ -124,7 +124,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40423126紀鈞瀚個人簡報
+<t tx="leo.20180827201621.10">## 40423126紀鈞瀚個人簡報(09/14)
 
 ### 虎科大機械設計工程系
 
