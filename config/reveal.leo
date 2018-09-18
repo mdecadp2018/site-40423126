@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180918141455.1" a="E"><vh>Week1(9/14)</vh>
@@ -135,12 +135,12 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40423126紀鈞瀚個人簡報(09/14)
+<t tx="leo.20180827201621.10">## &lt;b&gt;&lt;font color="#00FF00"&gt;40423126紀鈞瀚個人簡報&lt;/font&gt;&lt;/b&gt;
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40423126](https://github.com/mdecadp2018/site-40423126/tree/gh-pages)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -337,12 +337,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180918141455.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20180918141455.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
 
 						
 </t>
@@ -378,9 +375,8 @@ make.start()
 </t>
 <t tx="leo.20180918142842.2"># Week1操作影片
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-</t>
+&lt;iframe src="https://player.vimeo.com/video/290430318" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/290430318"&gt;40423126 Week1 上課內容&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20180918143030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -394,9 +390,8 @@ make.start()
 </t>
 <t tx="leo.20180918143030.2"># Week1上課心得
 
-這次是以四年級的身分再修這堂課，覺得課程比以前更快上手，搭配二年級和這周簡單的幾個筆記，就完成編輯及創建的功課。這次決定按部就班，今日事今日畢，才不會到期中期末又剩一堆。
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這次是以四年級的身分再修這堂課，覺得課程比以前更快上手，搭配二年級和這周簡單的幾個筆記，就完成編輯及創建的功課。這次決定按部就班，今日事今日畢，才不會到期中期末又剩一堆。&lt;/font&gt;&lt;/b&gt;
 
-$$I = \int \rho R^{2} dV$$
 </t>
 </tnodes>
 </leo_file>
