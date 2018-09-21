@@ -3,6 +3,8 @@
 
 http://mdecourse.github.io/2018fall/
 
+40423126-投影片: https://mdecadp2018.github.io/site-40423126/reveal
+
 分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
 
 設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki

@@ -38,6 +38,17 @@
 <v t="leo.20180918142842.2"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20180921102209.1" a="E"><vh>Week2(9/21)</vh>
+<v t="leo.20180921102209.2" a="E"><vh>Week2上課內容</vh>
+<v t="leo.20180921102209.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20180921102209.4" a="E"><vh>Week2上課心得</vh>
+<v t="leo.20180921102209.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20180921102209.6" a="E"><vh>Week2操作影片</vh>
+<v t="leo.20180921102209.7"><vh>影片</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -361,7 +372,9 @@ make.start()
 * 利用python wsgi.py指令編輯靜態網頁
 * 使用reveal.leo編輯投影片
 * 再次使用pelican.leo建立網誌
-* 運用share X錄製操作影片</t>
+* 運用share X錄製操作影片
+
+</t>
 <t tx="leo.20180918142842.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -376,7 +389,9 @@ make.start()
 <t tx="leo.20180918142842.2"># Week1操作影片
 
 &lt;iframe src="https://player.vimeo.com/video/290430318" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/290430318"&gt;40423126 Week1 上課內容&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/290430318"&gt;40423126 Week1 上課內容&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
 <t tx="leo.20180918143030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -391,6 +406,60 @@ make.start()
 <t tx="leo.20180918143030.2"># Week1上課心得
 
 &lt;b&gt;&lt;font color="#9F88FF"&gt;這次是以四年級的身分再修這堂課，覺得課程比以前更快上手，搭配二年級和這周簡單的幾個筆記，就完成編輯及創建的功課。這次決定按部就班，今日事今日畢，才不會到期中期末又剩一堆。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20180921102209.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20180921102209.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180921102209.3"># Week2上課內容
+
+* 編輯BLOG，更改格式能正常顯示頁面
+
+</t>
+<t tx="leo.20180921102209.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180921102209.5"># Week2上課心得
+
+
+
+</t>
+<t tx="leo.20180921102209.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180921102209.7"># Week2操作影片
+
+#&lt;b&gt;&lt;font color="#9F88FF"&gt;即將上映&lt;/font&gt;&lt;/b&gt;
 
 </t>
 </tnodes>
