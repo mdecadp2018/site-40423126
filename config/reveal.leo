@@ -37,6 +37,9 @@
 <v t="leo.20180918142842.1" a="E"><vh>Week1操作影片</vh>
 <v t="leo.20180918142842.2"><vh>影片</vh></v>
 </v>
+<v t="leo.20180923154250.1" a="E"><vh>Week1操作影片</vh>
+<v t="leo.20180923154250.2"><vh>影片</vh></v>
+</v>
 </v>
 <v t="leo.20180921102209.1" a="E"><vh>Week2(9/21)</vh>
 <v t="leo.20180921102209.2" a="E"><vh>Week2上課內容</vh>
@@ -373,7 +376,7 @@ make.start()
 * 使用reveal.leo編輯投影片
 * 再次使用pelican.leo建立網誌
 * 運用share X錄製操作影片
-
+* Onshape HW 1-1錄製操作影片
 </t>
 <t tx="leo.20180918142842.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -386,7 +389,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180918142842.2"># Week1操作影片
+<t tx="leo.20180918142842.2">## Week1操作影片
 
 &lt;iframe src="https://player.vimeo.com/video/290430318" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/290430318"&gt;40423126 Week1 上課內容&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -460,6 +463,23 @@ make.start()
 <t tx="leo.20180921102209.7"># Week2操作影片
 
 #&lt;b&gt;&lt;font color="#9F88FF"&gt;即將上映&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20180923154250.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180923154250.2">## Week1操作影片
+
+&lt;iframe src="https://player.vimeo.com/video/291336648" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/291336648"&gt;40423126 Week1 回家作業&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 </tnodes>
