@@ -40,8 +40,11 @@
 <v t="leo.20180923154250.1" a="E"><vh>Week1操作影片</vh>
 <v t="leo.20180923154250.2"><vh>影片</vh></v>
 </v>
+<v t="leo.20180930155705.1" a="E"><vh>Week1操作影片</vh>
+<v t="leo.20180930155705.2"><vh>影片</vh></v>
 </v>
-<v t="leo.20180921102209.1"><vh>Week2(9/21)</vh>
+</v>
+<v t="leo.20180921102209.1" a="E"><vh>Week2(9/21)</vh>
 <v t="leo.20180921102209.2" a="E"><vh>Week2上課內容</vh>
 <v t="leo.20180921102209.3"><vh>內容</vh></v>
 </v>
@@ -442,7 +445,8 @@ make.start()
 <t tx="leo.20180921102209.3"># Week2上課內容
 
 * 編輯BLOG，更改格式能正常顯示頁面
-
+* 設定gh-pages在個人封面
+* 練習week2畫圖作業
 </t>
 <t tx="leo.20180921102209.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -457,9 +461,7 @@ make.start()
 </t>
 <t tx="leo.20180921102209.5"># Week2上課心得
 
-
-
-</t>
+&lt;b&gt;&lt;font color="#9F88FF"&gt;第二禮拜已經將不熟悉的部分，都回家練習過了(包含推送和修改投影片等等...)，這一周又多了Blog的部分要編輯，不知道是不是因為上過課，即使內容不一樣也能很快跟上進度，所以上課的時候就把Blog給建好了，內容就回家再慢慢補充。&lt;/font&gt;&lt;/b&gt;</t>
 <t tx="leo.20180921102209.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -512,8 +514,10 @@ make.start()
 </t>
 <t tx="leo.20180928114001.3"># Week3上課內容
 
-* 練習commit的前後更換指令
-
+* 練習git的前後更換指令
+* git status →可查看commit記錄
+* git log →可列出歷史commit記錄
+* git checkout (7位數編號) →可回到該版本
 </t>
 <t tx="leo.20180928114001.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -528,9 +532,7 @@ make.start()
 </t>
 <t tx="leo.20180928114001.5"># Week3上課心得
 
-
-
-</t>
+&lt;b&gt;&lt;font color="#9F88FF"&gt;練習git的推送，可以說是對我有很大的幫助，因為以前把github搞爆，都需要尋求其他人的協助，但是這次老師很清楚的把指令還有遇到的狀況都模擬出來，再加上還有步驟一步步教，解決困擾我已久的問題阿。&lt;/font&gt;&lt;/b&gt;</t>
 <t tx="leo.20180928114001.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -544,8 +546,24 @@ make.start()
 </t>
 <t tx="leo.20180928114001.7"># Week3操作影片
 
-#&lt;b&gt;&lt;font color="#9F88FF"&gt;即將上映&lt;/font&gt;&lt;/b&gt;
+* 因為步驟練習與上課一模一樣，只上傳結果圖。
+&lt;iframe src="https://i.imgur.com/MCHd2lA.png" width="850" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20180930155705.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+
+						
+</t>
+<t tx="leo.20180930155705.2">## Week1操作影片part2
+
+&lt;iframe src="https://player.vimeo.com/video/292541499" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/292541499"&gt;40423126 Week1 回家作業 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>
