@@ -77,6 +77,23 @@
 <v t="leo.20181011160625.7"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20181018221630.1" a="E"><vh>Week5(10/12)</vh>
+<v t="leo.20181018221630.2" a="E"><vh>Week5上課內容</vh>
+<v t="leo.20181018221630.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181018221630.4" a="E"><vh>Week5上課心得</vh>
+<v t="leo.20181018221630.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181018221630.6" a="E"><vh>Week5 操作影片</vh>
+<v t="leo.20181018221630.7"><vh>影片</vh></v>
+</v>
+<v t="leo.20181018222010.1" a="E"><vh>Week5 操作影片</vh>
+<v t="leo.20181018222010.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20181018224321.1" a="E"><vh>Week5 操作影片</vh>
+<v t="leo.20181018224321.2"><vh>影片</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -601,7 +618,7 @@ make.start()
 <t tx="leo.20181011160625.3"># Week4上課內容
 
 * 練習 onshape 1-1 Lesson 中的四個圖
-* 
+
 </t>
 <t tx="leo.20181011160625.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -634,6 +651,93 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/294525930" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/294525930"&gt;40423126 Week4 上課內容&lt;/a&gt; from &lt;a href="https://vimeo.com/user60322140"&gt;紀鈞瀚&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20181018221630.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181018221630.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018221630.3"># Week5上課內容
+
+* 練習 onshape 2-1 Lesson 中的三個圖
+* git版本更新練習(最新版本2.19)
+* git version可以檢查目前使用的git版本 
+</t>
+<t tx="leo.20181018221630.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018221630.5"># Week5上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這周教了如何更新git版本，以及上課練習onshape week2的三張圖，覺得時鐘非常有挑戰性，自己摸索還學到了如何轉換Part的顏色，圖基本上都不會太難，多試試就會找到功能可以畫出來了。不過因為畫圖步驟時間過於繁雜，所以都改以圖片方式來呈現。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20181018221630.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018221630.7">## Week5操作圖片part1(上課)
+
+* 此為onshape第二周的課堂練習
+&lt;iframe src="https://i.imgur.com/B0JE9tD.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181018222010.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018222010.2">## Week5操作圖片part2(上課)
+
+* 此為onshape第二周的課堂練習
+&lt;iframe src="https://i.imgur.com/GB90dXx.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181018224321.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018224321.2">## Week5操作圖片part3(上課)
+
+* 此為onshape第二周的課堂練習
+&lt;iframe src="https://i.imgur.com/gX98kjK.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
