@@ -94,6 +94,17 @@
 <v t="leo.20181018224321.2"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20181025201616.1" a="E"><vh>Week6(10/19)</vh>
+<v t="leo.20181025201616.2" a="E"><vh>Week6上課內容</vh>
+<v t="leo.20181025201616.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181025201616.4" a="E"><vh>Week6上課心得</vh>
+<v t="leo.20181025201616.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181025201616.6" a="E"><vh>Week6 操作影片</vh>
+<v t="leo.20181025201616.7"><vh>影片</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -738,6 +749,60 @@ make.start()
 
 * 此為onshape第二周的課堂練習
 &lt;iframe src="https://i.imgur.com/gX98kjK.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181025201616.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181025201616.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181025201616.3"># Week6上課內容
+
+* 練習 onshape 2-2 HW中的五個圖
+* 統整各lesson plan的要點，並放在自己的網頁上 
+</t>
+<t tx="leo.20181025201616.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181025201616.5"># Week6上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;得知如果onshape的作業沒有弄完的話，期中後的分組要大家一起來補齊，為了不拖人後腿，所以這個禮拜加把勁，把前兩周的onshape給整理好還有HW都拍上影片做講解。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20181025201616.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181025201616.7">## Week6操作影片
+
+* 此為onshape第二周的回家練習
+&lt;iframe src="https://player.vimeo.com/video/297074800" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
