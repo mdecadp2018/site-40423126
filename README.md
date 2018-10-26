@@ -3,6 +3,6 @@
 
 40423126個人網站: https://mdecadp2018.github.io/site-40423126/content/
 
-40423126個人網站: https://mdecadp2018.github.io/site-40423126/reveal/index.html#/
+40423126個人投影片: https://mdecadp2018.github.io/site-40423126/reveal/index.html#/
 
 40423126個人部落格: https://mdecadp2018.github.io/site-40423126/blog/index.html
