@@ -24,8 +24,8 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>前言</vh>
+<v t="leo.20180827201621.12"><vh>觀看注意事項</vh></v>
 </v>
 <v t="leo.20180918141455.1" a="E"><vh>Week1(9/14)</vh>
 <v t="leo.20180918142831.1" a="E"><vh>Week1上課內容</vh>
@@ -223,14 +223,16 @@ Created by [40423126](https://github.com/mdecadp2018/site-40423126/tree/gh-pages
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># 觀看注意事項
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+1. 每周內容依序為&lt;b&gt;&lt;font color="#FF8888"&gt;要點→心得→影片/圖片&lt;/font&gt;&lt;/b&gt;
+2. 將游標移至圖片上方可看到文字說明
+3. 利用箭頭上下前後換頁
+4. &lt;b&gt;&lt;font color="#FF8888"&gt;按 f 鍵&lt;/font&gt;&lt;/b&gt;進入全螢幕模式 (full screen)
+5. &lt;b&gt;&lt;font color="#FF8888"&gt;按 s 鍵&lt;/font&gt;&lt;/b&gt;可以顯示投影片筆記 (show)
+6. &lt;b&gt;&lt;font color="#FF8888"&gt;按 o 鍵&lt;/font&gt;&lt;/b&gt;可以切換單張或全域檢視 (overview)
+7. &lt;b&gt;&lt;font color="#FF8888"&gt;按 b 或 . 鍵&lt;/font&gt;&lt;/b&gt;可以切換螢幕黑屏 (black)
+8. &lt;b&gt;&lt;font color="#FF8888"&gt;按 Esc&lt;/font&gt;&lt;/b&gt; 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -515,7 +517,8 @@ make.start()
 </t>
 <t tx="leo.20180921102209.7">## Week2操作影片
 
-#&lt;b&gt;&lt;font color="#9F88FF"&gt;即將上映&lt;/font&gt;&lt;/b&gt;
+![alt text](https://i.imgur.com/wt0LRBR.png "更新中")
+
 
 </t>
 <t tx="leo.20180923154250.1">&lt;section data-markdown&gt;
@@ -555,9 +558,9 @@ make.start()
 <t tx="leo.20180928114001.3"># Week3上課內容
 
 * 練習git的前後更換指令
-* git status →可查看commit記錄
-* git log →可列出歷史commit記錄
-* git checkout (7位數編號) →可回到該版本
+* &lt;b&gt;&lt;font color="#FF8888"&gt;git status&lt;/font&gt;&lt;/b&gt;可查看commit記錄
+* &lt;b&gt;&lt;font color="#FF8888"&gt;git log&lt;/font&gt;&lt;/b&gt;可列出歷史commit記錄
+* &lt;b&gt;&lt;font color="#FF8888"&gt;git checkout (7位數編號)&lt;/font&gt;&lt;/b&gt;可回到該版本
 * 將P37載入隨身碟
 * 更換個人倉儲的內定分支
 </t>
@@ -590,8 +593,8 @@ make.start()
 </t>
 <t tx="leo.20180928114001.7">## Week3操作圖片
 
-* 因為步驟練習與上課一模一樣，只上傳結果圖。
-&lt;iframe src="https://i.imgur.com/MCHd2lA.png" width="850" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+![alt text](https://i.imgur.com/MCHd2lA.png "因為步驟練習與上課一模一樣，只上傳結果圖。")
+
 </t>
 <t tx="leo.20180930155705.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -699,7 +702,7 @@ make.start()
 </t>
 <t tx="leo.20181018221630.5"># Week5上課心得
 
-&lt;b&gt;&lt;font color="#9F88FF"&gt;這周教了如何更新git版本，以及上課練習onshape week2的三張圖，覺得時鐘非常有挑戰性，自己摸索還學到了如何轉換Part的顏色，圖基本上都不會太難，多試試就會找到功能可以畫出來了。不過因為畫圖步驟時間過於繁雜，所以都改以圖片方式來呈現。&lt;/font&gt;&lt;/b&gt;
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這周教了如何更新git版本，以及上課練習onshape week2的三張圖，覺得時鐘非常有挑戰性，自己摸索還學到了如何轉換Part的顏色，圖基本上都不會太難，多試試就會找到功能可以畫出來了。不過因為畫圖步驟時間過於繁雜，所以都改以圖片方式來呈現，簡單明瞭又節省時間。&lt;/font&gt;&lt;/b&gt;
 
 </t>
 <t tx="leo.20181018221630.6">&lt;section data-markdown&gt;
@@ -715,8 +718,8 @@ make.start()
 </t>
 <t tx="leo.20181018221630.7">## Week5操作圖片part1(上課)
 
-* 此為onshape第二周的課堂練習
-&lt;iframe src="https://i.imgur.com/B0JE9tD.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+![alt text](https://i.imgur.com/B0JE9tD.png "此為onshape第二周的課堂練習")
+
 </t>
 <t tx="leo.20181018222010.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -731,8 +734,8 @@ make.start()
 </t>
 <t tx="leo.20181018222010.2">## Week5操作圖片part2(上課)
 
-* 此為onshape第二周的課堂練習
-&lt;iframe src="https://i.imgur.com/GB90dXx.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+![alt text](https://i.imgur.com/GB90dXx.png "此為onshape第二周的課堂練習")
+
 </t>
 <t tx="leo.20181018224321.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -747,8 +750,8 @@ make.start()
 </t>
 <t tx="leo.20181018224321.2">## Week5操作圖片part3(上課)
 
-* 此為onshape第二周的課堂練習
-&lt;iframe src="https://i.imgur.com/gX98kjK.png" width="1250" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+![alt text](https://i.imgur.com/gX98kjK.png "此為onshape第二周的課堂練習")
+
 </t>
 <t tx="leo.20181025201616.1">&lt;section&gt;
 @others
@@ -770,7 +773,9 @@ make.start()
 <t tx="leo.20181025201616.3"># Week6上課內容
 
 * 練習 onshape 2-2 HW中的五個圖
-* 統整各lesson plan的要點，並放在自己的網頁上 
+* 統整各Lesson plan的要點，並放在自己的網頁上 
+* 在個人的github[issue](https://github.com/mdecadp2018/site-40423126/issues) 上放入影片上傳的網址連結
+* 編輯LEO的指令[小秘笈](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 </t>
 <t tx="leo.20181025201616.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -801,7 +806,7 @@ make.start()
 </t>
 <t tx="leo.20181025201616.7">## Week6操作影片
 
-* 此為onshape第二周的回家練習
+此為onshape第二周的回家練習
 &lt;iframe src="https://player.vimeo.com/video/297074800" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
