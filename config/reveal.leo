@@ -105,6 +105,20 @@
 <v t="leo.20181025201616.7"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20181101231028.1" a="E"><vh>Week7(10/25)</vh>
+<v t="leo.20181101231028.2" a="E"><vh>Week7上課內容</vh>
+<v t="leo.20181101231028.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181101231028.4" a="E"><vh>Week7上課心得</vh>
+<v t="leo.20181101231028.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181101231028.6" a="E"><vh>Week7操作影片</vh>
+<v t="leo.20181101231028.7"><vh>影片</vh></v>
+</v>
+<v t="leo.20181101233014.1" a="E"><vh>Week7操作影片</vh>
+<v t="leo.20181101233014.2"><vh>影片</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -808,6 +822,83 @@ make.start()
 
 此為onshape第二周的回家練習
 &lt;iframe src="https://player.vimeo.com/video/297074800" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181101231028.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181101231028.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181101231028.3"># Week7上課內容
+
+* 可使用乙太網路IPV4 DNS伺服器(140.130.17.3、140.130.1.2)
+* IPV6則有分三種
+
+ &lt;b&gt;&lt;font color="#FF8888"&gt;機械設計工程系&lt;/font&gt;&lt;/b&gt; 2001:288:6004:1::2
+ 
+ &lt;b&gt;&lt;font color="#FF8888"&gt;國立虎尾科技大學&lt;/font&gt;&lt;/b&gt; 2001:288:6004:1::2
+ 
+ &lt;b&gt;&lt;font color="#FF8888"&gt;hinet&lt;/font&gt;&lt;/b&gt; 2001:b000:168::1
+* 區號共有8區，所以雙冒號所代表的區域就是8區減掉已打出來的區數</t>
+<t tx="leo.20181101231028.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181101231028.5"># Week7上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這一周改得版本比較多，自從上禮拜得知要把onshape分周整理好放上去，這一周將onshape的每周進度更新到網誌上面，至於投影片的排版則是以上課講得內容為主，後面的影片or圖片則是該周所做的內容。為了怕老師誤會，之後會在開頭特別註明排版方式還有3個地方分別所呈現的方式。準備好迎接其中的自評了！&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20181101231028.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181101231028.7">## Week7操作影片
+
+此為onshape第三周的回家練習
+&lt;iframe src="https://player.vimeo.com/video/298393151" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181101233014.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181101233014.2">## Week7操作影片part2
+
+此為onshape第三周的回家練習
+&lt;iframe src="https://player.vimeo.com/video/298396143" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>
