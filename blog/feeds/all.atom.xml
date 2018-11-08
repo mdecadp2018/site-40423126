@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>第八周(2018.11.02)</title><link href="./2018-11-02.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-11-02:./2018-11-02.html</id><summary type="html">&lt;p&gt;課程重點:整合內容、迎戰期中&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40423126/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423126/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423126/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>第八周(2018.11.02)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-11-02.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40423126/blog/2018-11-02.html</id><summary type="html">&lt;p&gt;課程重點:整合內容、迎戰期中&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:整合內容、迎戰期中&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>第七周(2018.10.25)</title><link href="./2018-10-25.html" rel="alternate"></link><published>2018-10-25T11:00:00+08:00</published><updated>2018-10-25T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-10-25:./2018-10-25.html</id><summary type="html">&lt;p&gt;課程重點:乙太網路的IP&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>第七周(2018.10.25)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-10-25.html" rel="alternate"></link><published>2018-10-25T11:00:00+08:00</published><updated>2018-10-25T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-10-25:/site-40423126/blog/2018-10-25.html</id><summary type="html">&lt;p&gt;課程重點:乙太網路的IP&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:乙太網路的IP&lt;/p&gt;
 
 
@@ -12,7 +12,7 @@
 &lt;p&gt;◆IPV6 hinet(2001:b000:168::1)&lt;/p&gt;
 &lt;p&gt;一般IPV6共有八區。&lt;/p&gt;
 &lt;p&gt;雙冒號→代表中間區號皆為0&lt;/p&gt;
-&lt;h2&gt;Onshpe專區&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>第六周(2018.10.19)</title><link href="./2018-10-19.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-10-19:./2018-10-19.html</id><summary type="html">&lt;p&gt;課程重點:統整Onshape Lesson重點&lt;/p&gt;
+&lt;h2&gt;Onshpe專區&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>第六周(2018.10.19)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-10-19.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40423126/blog/2018-10-19.html</id><summary type="html">&lt;p&gt;課程重點:統整Onshape Lesson重點&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:統整Onshape Lesson重點&lt;/p&gt;
 
 
@@ -21,7 +21,7 @@
 &lt;p&gt;◆統整重點&lt;a href="https://mdecadp2018.github.io/site-40423126/content/Onshape%20Lesson%20Plan.html"&gt;秘笈&lt;/a&gt;處，有每周Onshape的重點，還有附圖說明哦！&lt;/p&gt;
 &lt;h2&gt;Onshpe專區&lt;/h2&gt;
 &lt;p&gt;1.
-&lt;iframe src="https://player.vimeo.com/video/297074800" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第五周(2018.10.12)</title><link href="./2018-10-12.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-10-12:./2018-10-12.html</id><summary type="html">&lt;p&gt;課程重點:Git版本更新&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/297074800" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第五周(2018.10.12)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-10-12.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40423126/blog/2018-10-12.html</id><summary type="html">&lt;p&gt;課程重點:Git版本更新&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:Git版本更新&lt;/p&gt;
 
 
@@ -37,7 +37,7 @@
 &lt;p&gt;1.
 &lt;iframe src="https://player.vimeo.com/video/299603480" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;2.
-&lt;iframe src="https://player.vimeo.com/video/299603999" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第四周(2018.10.05)</title><link href="./2018-10-05.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-10-05:./2018-10-05.html</id><summary type="html">&lt;p&gt;課程重點:練習Onshape Lesson&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/299603999" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第四周(2018.10.05)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-10-05.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40423126/blog/2018-10-05.html</id><summary type="html">&lt;p&gt;課程重點:練習Onshape Lesson&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:練習Onshape Lesson&lt;/p&gt;
 
 
@@ -46,7 +46,7 @@
 &lt;iframe src="https://player.vimeo.com/video/294525930" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Onshpe專區&lt;/h2&gt;
 &lt;p&gt;1.
-&lt;iframe src="https://player.vimeo.com/video/299603082" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第三周(2018.09.28)</title><link href="./2018-09-28.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-09-28:./2018-09-28.html</id><summary type="html">&lt;p&gt;課程重點:Git版本的控制&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/299603082" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第三周(2018.09.28)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-09-28.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40423126/blog/2018-09-28.html</id><summary type="html">&lt;p&gt;課程重點:Git版本的控制&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:Git版本的控制&lt;/p&gt;
 
 
@@ -59,7 +59,7 @@
 &lt;p&gt;1.
 &lt;iframe src="https://player.vimeo.com/video/298393151" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;2.
-&lt;iframe src="https://player.vimeo.com/video/298396143" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第二周(2018.09.21)</title><link href="./2018-09-21.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-09-21:./2018-09-21.html</id><summary type="html">&lt;p&gt;課程重點:Blog部落格的產生&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/298396143" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第二周(2018.09.21)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-09-21.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40423126/blog/2018-09-21.html</id><summary type="html">&lt;p&gt;課程重點:Blog部落格的產生&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:Blog部落格的產生&lt;/p&gt;
 
 
@@ -73,7 +73,7 @@
 &lt;img src="https://i.imgur.com/gpdGHsO.png"&gt;
 &lt;img src="https://i.imgur.com/KKhSZbR.png"&gt;
 &lt;img src="https://i.imgur.com/6oayi3F.png"&gt;
-&lt;img src="https://i.imgur.com/u2wIWw8.png"&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第一周(2018.09.14)</title><link href="./2018-09-14.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:None,2018-09-14:./2018-09-14.html</id><summary type="html">&lt;p&gt;課程重點:建立個人的課程網頁&lt;/p&gt;
+&lt;img src="https://i.imgur.com/u2wIWw8.png"&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>第一周(2018.09.14)</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-09-14.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40423126</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40423126/blog/2018-09-14.html</id><summary type="html">&lt;p&gt;課程重點:建立個人的課程網頁&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;課程重點:建立個人的課程網頁&lt;/p&gt;
 
 
@@ -90,7 +90,7 @@
 &lt;p&gt;1.
 &lt;iframe src="https://player.vimeo.com/video/291336648" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;2.
-&lt;iframe src="https://player.vimeo.com/video/292541499" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/292541499" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40423126/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40423126/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
