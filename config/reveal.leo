@@ -119,6 +119,14 @@
 <v t="leo.20181101233014.2"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20181108213729.1" a="E"><vh>Week8(11/2)</vh>
+<v t="leo.20181108213729.2" a="E"><vh>Week8上課內容</vh>
+<v t="leo.20181108213729.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108213729.4" a="E"><vh>Week8上課心得</vh>
+<v t="leo.20181108213729.5"><vh>心得</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -850,7 +858,9 @@ make.start()
  &lt;b&gt;&lt;font color="#FF8888"&gt;國立虎尾科技大學&lt;/font&gt;&lt;/b&gt; 2001:288:6004:1::2
  
  &lt;b&gt;&lt;font color="#FF8888"&gt;hinet&lt;/font&gt;&lt;/b&gt; 2001:b000:168::1
-* 區號共有8區，所以雙冒號所代表的區域就是8區減掉已打出來的區數</t>
+* 區號共有8區，所以雙冒號所代表的區域就是8區減掉已打出來的區數
+
+</t>
 <t tx="leo.20181101231028.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -898,6 +908,45 @@ make.start()
 
 此為onshape第三周的回家練習
 &lt;iframe src="https://player.vimeo.com/video/298396143" width="640" height="311" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181108213729.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181108213729.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108213729.3"># Week8上課內容
+
+* 統整W1-W7的上課內容以及回家作業
+* 組成最多六人一組的團隊，進行下半段的Team work
+
+</t>
+<t tx="leo.20181108213729.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108213729.5"># Week8上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這周沒有額外的上課內容，可以專心整理之前的檔案，原本想說各周影片一次拍好在放上來，結果沒想到網誌的同步太不給力了，遲遲等不到他同步好的時間，所以改成貼上連結。然後將完整影片放在部落格裡。再煩請老師多切幾個頁面幫我評分一下。&lt;/font&gt;&lt;/b&gt;
 
 </t>
 </tnodes>
