@@ -165,6 +165,28 @@
 <v t="leo.20181201145808.7"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20181220205338.1" a="E"><vh>Week13(12/7)</vh>
+<v t="leo.20181220205338.2" a="E"><vh>Week13上課內容</vh>
+<v t="leo.20181220205338.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181220205338.4" a="E"><vh>Week13上課心得</vh>
+<v t="leo.20181220205338.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181220205338.6" a="E"><vh>Week13 操作影片</vh>
+<v t="leo.20181220205338.7"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181220205339.1" a="E"><vh>Week14(12/14)</vh>
+<v t="leo.20181220205339.2" a="E"><vh>Week14上課內容</vh>
+<v t="leo.20181220205339.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181220205339.4" a="E"><vh>Week14上課心得</vh>
+<v t="leo.20181220205339.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181220205339.6" a="E"><vh>Week14 操作影片</vh>
+<v t="leo.20181220205339.7"><vh>影片</vh></v>
+</v>
+</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -1046,7 +1068,9 @@ make.start()
 </t>
 <t tx="leo.20181201145802.3"># Week10上課內容
 
-## ３８周年校慶運動會</t>
+## ３８周年校慶運動會
+
+</t>
 <t tx="leo.20181201145802.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1087,7 +1111,9 @@ make.start()
 *  並將heroku系統放在隨身碟裡，變成可攜式環境
 * 申辦一個[Heroku](https://dashboard.heroku.com/apps) 帳號 
 * 練習怎麼與小組的github做連動(除了組長以外，其餘人皆用Fork版本編輯)
-* 小組Onshape week6的[作業繪製-自製滑板](https://cad.onshape.com/documents/3c06d1afaa589d3ea157b50e/w/0b28eb3bfad0665b4b37759b/e/260469ed8ad886c6e7d9770d)</t>
+* 小組Onshape week6的[作業繪製-自製滑板](https://cad.onshape.com/documents/3c06d1afaa589d3ea157b50e/w/0b28eb3bfad0665b4b37759b/e/260469ed8ad886c6e7d9770d)
+
+</t>
 <t tx="leo.20181201145804.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1143,7 +1169,9 @@ make.start()
 * &lt;b&gt;&lt;font color="#FF8888"&gt;heroku login&lt;/font&gt;&lt;/b&gt;會跳出頁面可登入heroku帳號
 * &lt;b&gt;&lt;font color="#FF8888"&gt;heroku git:clone -a (app名稱)&lt;/font&gt;&lt;/b&gt;可clone下來到指定的資料夾
 * 只要與github連動後，只需推送github部分，Heroku就會自動更新
-* 小組Onshape week7的[作業繪製-藍芽喇叭](https://cad.onshape.com/documents/f88fcd000b1c981e3741e4a7/w/be62be34705388461863810c/e/de09d714e2e70d2661660a83)</t>
+* 小組Onshape week7的[作業繪製-藍芽喇叭](https://cad.onshape.com/documents/f88fcd000b1c981e3741e4a7/w/be62be34705388461863810c/e/de09d714e2e70d2661660a83)
+
+</t>
 <t tx="leo.20181201145808.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1174,6 +1202,117 @@ make.start()
 <t tx="leo.20181201145808.7">## Week12操作影片
 
 待更新。
+</t>
+<t tx="leo.20181220205338.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181220205338.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220205338.3"># Week13上課內容
+
+* Pandoc軟體、MS word共享都是協同編輯report的好方法
+* 需每周更新小組網站的report、點名、reveal(下禮拜起需上台報告)
+* 小組Onshape week8的[作業繪製-藍芽喇叭_改版](https://cad.onshape.com/documents/f88fcd000b1c981e3741e4a7/w/be62be34705388461863810c/e/de09d714e2e70d2661660a83)
+
+</t>
+<t tx="leo.20181220205338.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220205338.5"># Week13上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;在這周上課臨時要我們製作每周Report的報告書，老實說時間有點趕，最可能的原因可能是我們回家後互相討論的平率沒有很高，所以變成很多都是上課才開始統整上周的進度還有這周的任務，臨時做出來後才發現原來我們小組存在這樣的問題，好險發現得早讓我們能及時做改善。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20181220205338.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220205338.7">## Week13操作影片
+
+待更新。
+</t>
+<t tx="leo.20181220205339.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181220205339.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220205339.3"># Week14上課內容
+
+* 練習V-rep機械手臂做動_[課綱連結](http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm)
+* 老師範本two-link，較簡化版本，可練習連結方面的技巧
+* 小組Onshape week9的[作業繪製-迷你斬波器](https://cad.onshape.com/documents/99f44813f94bb17995b9615e/v/8f8269e5210cd63ba0ce17d0/e/6cf181c64ab0aab44e492e9c)
+
+</t>
+<t tx="leo.20181220205339.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220205339.5"># Week14上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;今日課程著重在個人，研究V-rep如何將一個機構連結到最後可以做動，我之前就對於這個軟體非常不擅長，所以回家做足了苦功，一點一滴的上課沒做完的補上，雖然不能說成效多好，但是至少有達到基礎的做動，對於此軟體的應用技能又大大了上升了一大步。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20181220205339.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220205339.7">## Week14操作影片
+
+此為上課V-rep機械手臂做動練習
+&lt;iframe src="https://player.vimeo.com/video/307474062" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
