@@ -176,7 +176,7 @@
 <v t="leo.20181220205338.7"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20181220205339.1" a="E"><vh>Week14(12/14)</vh>
+<v t="leo.20181220205339.1"><vh>Week14(12/14)</vh>
 <v t="leo.20181220205339.2" a="E"><vh>Week14上課內容</vh>
 <v t="leo.20181220205339.3"><vh>內容</vh></v>
 </v>
@@ -185,6 +185,27 @@
 </v>
 <v t="leo.20181220205339.6" a="E"><vh>Week14 操作影片</vh>
 <v t="leo.20181220205339.7"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20190103213157.1"><vh>Week15(12/21)</vh>
+<v t="leo.20190103213157.2" a="E"><vh>Week15上課內容</vh>
+<v t="leo.20190103213157.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190103213157.4" a="E"><vh>Week15上課心得</vh>
+<v t="leo.20190103213157.5"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20190103213219.1"><vh>Week16(12/28)</vh>
+<v t="leo.20190103213219.2" a="E"><vh>Week16上課內容</vh>
+<v t="leo.20190103213219.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190103213219.4" a="E"><vh>Week16上課心得</vh>
+<v t="leo.20190103213219.5"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20190103214429.1" a="E"><vh>Week17(1/4)</vh>
+<v t="leo.20190103214429.6" a="E"><vh>Week17 操作影片</vh>
+<v t="leo.20190103214429.7"><vh>影片</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -1313,6 +1334,105 @@ make.start()
 
 此為上課V-rep機械手臂做動練習
 &lt;iframe src="https://player.vimeo.com/video/307474062" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190103213157.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190103213157.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190103213157.3"># Week15上課內容
+
+* 如何在小組網誌上呈現組員分工(詳情請移至[作品](https://mdecadp2018.github.io/finalproject-ag1/content/%E7%B0%A1%E4%BB%8B.html) [作品2](https://mdecadp2018.github.io/finalproject-ag1/content/Fianl_Report.html) )
+* 小組Onshape week10的[作業繪製-迷你斬波器](https://cad.onshape.com/documents/99f44813f94bb17995b9615e/v/93ff3cde5e7c449938bf86c0/e/6cf181c64ab0aab44e492e9c)
+
+</t>
+<t tx="leo.20190103213157.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190103213157.5"># Week15上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這一周要我們呈現組員的分工內容，認真覺得這一個環節讓人清晰明瞭，也讓旁人很快就能了解小組整體運作的狀況，一個小組如果有清楚的分配每個人的工作，這樣所呈現出來的東西一定是很好的，而且也非常地有效率，在這周整理我們組的分工狀況，讓我了解到我們組內目前哪裡進度還尚未達到，可以進行人員調度或替補的應對。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20190103213219.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190103213219.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190103213219.3"># Week16上課內容
+
+* 小組Onshape week11的[作業繪製-迷你斬波器](https://cad.onshape.com/documents/99f44813f94bb17995b9615e/v/2627bfd245e790a24a6f6895/e/6cf181c64ab0aab44e492e9c)
+
+</t>
+<t tx="leo.20190103213219.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190103213219.5"># Week16上課心得
+
+&lt;b&gt;&lt;font color="#9F88FF"&gt;這一周我們這組都在利用雲端的功能，多人同時編輯我們的Report，能即時修改也能即時討論，可以說是非常的方便，而且最重要的是，雲端內還會自動記錄我們每個人所做的版本紀錄，這樣我們也不用另外花時間去統計，非常好的一個發明阿。&lt;/font&gt;&lt;/b&gt;
+
+</t>
+<t tx="leo.20190103214429.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190103214429.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190103214429.7">## Week17操作影片
+
+此為期末考前個人的3分鐘影片(尚未上傳，請稍等)
+&lt;iframe src="" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
