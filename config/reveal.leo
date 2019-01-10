@@ -150,9 +150,6 @@
 <v t="leo.20181201145804.4" a="E"><vh>Week11上課心得</vh>
 <v t="leo.20181201145804.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181201145804.6" a="E"><vh>Week11 操作影片</vh>
-<v t="leo.20181201145804.7"><vh>影片</vh></v>
-</v>
 </v>
 <v t="leo.20181201145808.1" a="E"><vh>Week12(11/30)</vh>
 <v t="leo.20181201145808.2" a="E"><vh>Week12上課內容</vh>
@@ -160,9 +157,6 @@
 </v>
 <v t="leo.20181201145808.4" a="E"><vh>Week12上課心得</vh>
 <v t="leo.20181201145808.5"><vh>心得</vh></v>
-</v>
-<v t="leo.20181201145808.6" a="E"><vh>Week12 操作影片</vh>
-<v t="leo.20181201145808.7"><vh>影片</vh></v>
 </v>
 </v>
 <v t="leo.20181220205338.1" a="E"><vh>Week13(12/7)</vh>
@@ -172,11 +166,8 @@
 <v t="leo.20181220205338.4" a="E"><vh>Week13上課心得</vh>
 <v t="leo.20181220205338.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181220205338.6" a="E"><vh>Week13 操作影片</vh>
-<v t="leo.20181220205338.7"><vh>影片</vh></v>
 </v>
-</v>
-<v t="leo.20181220205339.1"><vh>Week14(12/14)</vh>
+<v t="leo.20181220205339.1" a="E"><vh>Week14(12/14)</vh>
 <v t="leo.20181220205339.2" a="E"><vh>Week14上課內容</vh>
 <v t="leo.20181220205339.3"><vh>內容</vh></v>
 </v>
@@ -195,7 +186,7 @@
 <v t="leo.20190103213157.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20190103213219.1"><vh>Week16(12/28)</vh>
+<v t="leo.20190103213219.1" a="E"><vh>Week16(12/28)</vh>
 <v t="leo.20190103213219.2" a="E"><vh>Week16上課內容</vh>
 <v t="leo.20190103213219.3"><vh>內容</vh></v>
 </v>
@@ -206,6 +197,11 @@
 <v t="leo.20190103214429.1" a="E"><vh>Week17(1/4)</vh>
 <v t="leo.20190103214429.6" a="E"><vh>Week17 操作影片</vh>
 <v t="leo.20190103214429.7"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20190111011914.1" a="E"><vh>Week18(1/11)</vh>
+<v t="leo.20190111011914.4" a="E"><vh>Week18上課心得</vh>
+<v t="leo.20190111011914.5"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -1151,21 +1147,6 @@ make.start()
 &lt;b&gt;&lt;font color="#9F88FF"&gt;第一次看到遠端同步github的功能，雖然整體操作模式與github相同，但還是覺得很酷。&lt;/font&gt;&lt;/b&gt;
 
 </t>
-<t tx="leo.20181201145804.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181201145804.7">## Week11操作影片
-
-待更新。
-</t>
 <t tx="leo.20181201145808.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1209,21 +1190,6 @@ make.start()
 &lt;b&gt;&lt;font color="#9F88FF"&gt;今天與小組人員一起更新小組網誌內容以及探討我們專題的題目走向，還有解決我們小組網誌的連動問題，關於這些問題將會放在Week12來做探討與結果的專欄。第一組要開始邁出all pass的第一步了。加油！&lt;/font&gt;&lt;/b&gt;
 
 </t>
-<t tx="leo.20181201145808.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181201145808.7">## Week12操作影片
-
-待更新。
-</t>
 <t tx="leo.20181220205338.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1263,21 +1229,6 @@ make.start()
 
 &lt;b&gt;&lt;font color="#9F88FF"&gt;在這周上課臨時要我們製作每周Report的報告書，老實說時間有點趕，最可能的原因可能是我們回家後互相討論的平率沒有很高，所以變成很多都是上課才開始統整上周的進度還有這周的任務，臨時做出來後才發現原來我們小組存在這樣的問題，好險發現得早讓我們能及時做改善。&lt;/font&gt;&lt;/b&gt;
 
-</t>
-<t tx="leo.20181220205338.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181220205338.7">## Week13操作影片
-
-待更新。
 </t>
 <t tx="leo.20181220205339.1">&lt;section&gt;
 @others
@@ -1431,8 +1382,31 @@ make.start()
 </t>
 <t tx="leo.20190103214429.7">## Week17操作影片
 
-此為期末考前個人的3分鐘影片(尚未上傳，請稍等)
-&lt;iframe src="" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+此為期末考前個人的3分鐘影片
+&lt;iframe width="640" height="400" src="https://player.vimeo.com/video/310490385" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190111011914.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190111011914.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111011914.5"># 學期心得
+
+&lt;small&gt;
+&lt;b&gt;&lt;font color="#9F88FF"&gt;我將最後這兩個禮拜的心得統整為一個。接近期末的尾聲，我們加緊趕工不斷改良機構以及修改之前的內容，明明上課沒什麼課綱但這種自己鞭策自己的方法才是最累人的。對於再一次重修這門課，我學到了很多，跟以往大二只是想混水摸魚完全是不一樣的，幾乎每個禮拜都花了不少時間在做課綱、作業、拍片還有最後的專題，另我成長最多的一開始Onshape的應用，我看沒有一組有做老師的Onshape練習，但我跟孟哲組員一開始以為是必須的就持之以恆的做到最後，一步驟一步驟跟著課綱來，翻譯一遍又一遍的看，圖稿一遍又一遍的做修整，耗費了很大的時間及心血，雖然最後兩周沒有統整上來(礙於期末專題的作業)，但圖檔有留著可以給老師做見證，總而言之專題機構的設計靈感有不少正好就來自於課綱所教的秘訣方法。
+最後希望能順利的通過最後一個大關，為我大學生涯的課業做收尾，關於這次對小組的貢獻我自己覺得沒有愧對自己，一樣是盡全力付出，謝謝老師的教導。&lt;/font&gt;&lt;/b&gt;
+
 </t>
 </tnodes>
 </leo_file>
